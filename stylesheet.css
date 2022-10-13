@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family: Arial ;
+}
+
+.description{
+    text-align: center;
+    color: brown;
+}
+
+.divider{
+    text-align: center;
+}
+
+img {
+    margin: 5px;
+    border: 5px solid darkorange;
+    padding: 5px;
+}
+
+#linkedin {
+    text-align: center;
+}
+
+a:hover{
+    color:darkorange;
+}
+
